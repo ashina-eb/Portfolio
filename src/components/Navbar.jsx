@@ -92,6 +92,23 @@ function Navbar() {
           </a>
         </li>
 
+      <li>
+          <a
+            href="#project"
+            className="
+            hover:text-white
+            transition-all duration-300
+            relative after:absolute after:left-0 after:-bottom-1
+            after:w-0 after:h-[2px]
+            after:bg-pink-400
+            hover:after:w-full
+            after:transition-all after:duration-300
+          "
+          >
+            Project
+          </a>
+        </li>
+
         <li>
           <a
             href="#contact"
