@@ -115,13 +115,13 @@ function Home() {
               className="
               px-9 py-4
               rounded-full
-              border border-white/15
-              bg-white/5
-              backdrop-blur-xl
+              bg-white
+              text-black
               text-lg
               font-semibold
-              hover:bg-white/10
+              hover:scale-105
               transition-all duration-300
+              shadow-[0_10px_35px_rgba(255,255,255,0.15)]
             "
             >
               My Journey
