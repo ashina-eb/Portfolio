@@ -22,7 +22,7 @@ function Home() {
       {/* Elegant Gradient Lighting */}
       <div className="absolute top-[-180px] left-[-120px] w-[500px] h-[500px] bg-purple-600/20 rounded-full blur-[160px]"></div>
 
-              lassName="
+              
       <div className="absolute bottom-[-200px] right-[-120px] w-[500px] h-[500px] bg-cyan-500/10 rounded-full blur-[180px]"></div>
 
       {/* Soft Noise Overlay */}
