@@ -77,7 +77,6 @@ function App() {
         {/* Navbar */}
         <Navbar />
 
-        {/* Home */}
         <section
           id="home"
           className="
@@ -90,7 +89,6 @@ function App() {
           <Home />
         </section>
 
-        {/* About */}
         <section
           id="about"
           className="
@@ -116,7 +114,6 @@ function App() {
           </div>
         </section>
 
-        {/* Education */}
         <section
           id="education"
           className="
@@ -150,7 +147,7 @@ function App() {
           px-6 md:px-16 lg:px-24
         "
         >
-          {/* <div
+          <div
             className="
             max-w-7xl
             mx-auto
@@ -165,7 +162,7 @@ function App() {
           "
           >
             <Project />
-          </div> */}
+          </div>
         </section>
 
         {/* Contact */}
